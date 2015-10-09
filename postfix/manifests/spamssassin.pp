@@ -1,0 +1,3 @@
+    package { 'spamassassin':
+        ensure  => present,
+    }
